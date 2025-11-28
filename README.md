@@ -1,7 +1,8 @@
 # Welcome!
 
 ## About me:
-- Work as a part of data science team at [assisterr](https://www.assisterr.xyz/)
+- Worked as software enginner at Playground Games, developing features and protocols for Forza Horizon 5 and 6.
+- Worked as a part of data science team at [assisterr](https://www.assisterr.xyz/)
 - Former Computer Science student at National University of Kyiv-Mohyla Academy 
 - Current Computer Science student at City, University of London 
 
